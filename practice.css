@@ -1,0 +1,95 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+
+#img{
+    height: 7em;
+    width:7em;
+}
+#input{
+    font-size: large;
+    height: 48px;
+    width: 63%;
+    position: absolute;
+    top: 5vh;
+    left: 20vh;
+}
+.mic-search-img{
+    width: fit-content;
+    display: flex; 
+    position: relative;
+    top: -96px;
+    left: 66%;
+    
+}
+h2{
+    position: relative;
+    top: -15px;
+    font-size: 2vh;
+}
+.helpline{
+    width: 23%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 75%;
+    top: 5vb;
+    
+}
+.droplist{
+    border-style: none;
+    position: relative;
+    top: -50px;
+    display: flex;
+    justify-content: space-around;
+}
+.sub{
+    display: flex;
+    margin-left: 180px;
+}
+.sub-1{
+    display: flex;
+    margin-left: 180px;
+}
+.class{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    background-color: antiquewhite;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.trend{
+    display: flex;
+    justify-content: space-around;
+}
+.banner-inside{
+    display: flex;
+    justify-content: space-around;
+}
+banner-inside:hover{
+    scale: (1.2);
+}
+.form-1{
+    border: 2px solid;
+    height: 350px;
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+#btn{
+    color: white;
+    height: 10%;
+    width: 78%;
+    background-color: black;
+    
+}
